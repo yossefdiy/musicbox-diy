@@ -1,6 +1,6 @@
-# simple musicbox made with:
+# simple musicbox
+made with:
+mui ,hooks and simple jsx.
 
-mui ,hooks and simple jsx
-
-my first project in react after one week of learning
+my first project in react after one week of learning.
 
